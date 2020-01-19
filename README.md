@@ -96,10 +96,10 @@ When discussing electrodes placement F, P, O, T are used to label points on the 
 
 F, P, O, T - Odd numbers on the left, even on the right
 
-<img src="media/BHV19_tdcs2.png" width="300"> 
+<img src="media/BHV19_tdcs2.png" width="500"> 
 
 
-<img src="media/BHV19_tdcs3.png" width="300"> 
+<img src="media/BHV19_tdcs3.png" width="500"> 
 
 * LPP 10% to T3, 20% to C3, 20% to Cz, 20% to C4, 20% to T4, 10% to RPP = 100%
 * Midline, Nasion 10% to Fpz, 20% to Fz, 20% to Cz, 20% to Pz, 20% to Oz, 10% to Inion = 100%
@@ -109,15 +109,15 @@ F, P, O, T - Odd numbers on the left, even on the right
 * For the sake of brevity and getting to the good stuff, we will show you how to map of few of the commonly used electrode placements.
 * Using cm side of measuring tape
 
-<img src="media/BHV19_tdcs4.png" width="300"> 
+<img src="media/BHV19_tdcs4.png" width="500"> 
 
-<img src="media/BHV19_tdcs5.png" width="300"> 
+<img src="media/BHV19_tdcs5.png" width="500"> 
 
-<img src="media/BHV19_tdcs6.png" width="300"> 
+<img src="media/BHV19_tdcs6.png" width="500"> 
 
-<img src="media/BHV19_tdcs7.png" width="300"> 
+<img src="media/BHV19_tdcs7.png" width="500"> 
 
-<img src="media/BHV19_tdcs8.png" width="300"> 
+<img src="media/BHV19_tdcs8.png" width="500"> 
 
 
 Measurement methods for placement of the F3, F4, P3, and P4 points differ. If measured front-to-back (Fp1-F3-C3-P3-O1 and Fp2-F4-C4-P4-O2 montages), they can be 25% "up" from the front and back points (Fp1, Fp2, O1, and O2). If measured side-to-side (F7-F3-Fz-F4-F8 and T5-P3-Pz-P4-T6 montages), they can be 25% "up" from the side points (F7, F8, T5, and T6). If measured diagonally, from Nasion to Inion through the C3 and C4 points, they will be 20% in front of and behind the C3 and C4 points. Each of these measurement methods results in different nominal electrode placements.
@@ -157,16 +157,16 @@ However...we are scientists...let's be as accurate as possible
 
 ## Anode F3
 
-<img src="media/BHV19_tdcs9.png" width="300"> 
+<img src="media/BHV19_tdcs9.png" width="500"> 
 
 ## Anode F4
 
-<img src="media/BHV19_tdcs10.png" width="300"> 
+<img src="media/BHV19_tdcs10.png" width="500"> 
 
 
 ## Depression
 
-<img src="media/BHV19_tdcs11.png" width="300"> 
+<img src="media/BHV19_tdcs11.png" width="500"> 
 
 * Typical stimulation protocols are 1-2 mA for 20 minutes over the left DLPFC.
 * The left DLPFC activity is associated with positive emotional processing.
@@ -195,7 +195,7 @@ Can potentially be used to reduce addictive behaviors that include cravings for 
 
 ## Insightfulness
 
-<img src="media/BHV19_tdcs13.png" width="300"> 
+<img src="media/BHV19_tdcs13.png" width="500"> 
 
 * Right lateralized tDCS at a max current output 1.6 mA was found to increase the user's ability to solve difficult problems; suggesting this montage may have played a role in mitigating cognitive biases that impede higher creative thinking. 40% of participants were able to find the solution to a difficult problem after receiving right lateralized tDCS, whereas none of the participants were able to solve it beforehand.
 
@@ -204,23 +204,23 @@ Can potentially be used to reduce addictive behaviors that include cravings for 
 
 ### Attention Improvement
 
-<img src="media/BHV19_tdcs14.png" width="300"> 
+<img src="media/BHV19_tdcs14.png" width="500"> 
 
 * Measure and mark 5% of total circumference to the left and right of Fpz. These will be your true Fp1 and Fp2 marks.
 
 
 ## Chronic Pain
 
-<img src="media/BHV19_tdcs15.png" width="300"> 
+<img src="media/BHV19_tdcs15.png" width="500"> 
 
 ## ADHD
 
-<img src="media/BHV19_tdcs16.png" width="300"> 
+<img src="media/BHV19_tdcs16.png" width="500"> 
 
 
 ## Improved Cognition
 
-<img src="media/BHV19_tdcs17.png" width="300"> 
+<img src="media/BHV19_tdcs17.png" width="500"> 
 
 
 ## Other Montages
@@ -294,15 +294,17 @@ Do not put mesh side on skin. Ensure no metal is exposed on the contact side
 
 ## Badge Overview
 
-<img src="media/BHV19_tdcs18.png" width="300"> 
+<img src="media/BHV19_tdcs18.png" width="500"> 
 
 ---
 ## Another Disclaimer
 
 The tDCS device provided in this workshop is not intended as a medical device and is not approved by the FDA. The user accepts all risk associated with the advice, guidance, claims, and references provided within this presentation.
+
 By accepting this tDCS device, you are accepting all risk associated with its ownership and usage.
 Children, elderly, and people with history of epilepsy, stroke, or implants should consider avoiding DIY tDCS.
 Please consult your physician before engaging in DIY tDCS
+
 BY ACCEPTING AND/OR USING THIS DEVICE, YOU ACCEPT ALL RISK, RESPONSIBILITY, AND LIABILITY ASSOCIATED WITH IT
 
 
@@ -310,10 +312,10 @@ BY ACCEPTING AND/OR USING THIS DEVICE, YOU ACCEPT ALL RISK, RESPONSIBILITY, AND 
 
 ## Resources
 
-http://VagabondBanana.com
-http://www.quantified-mind.com/
-https://www.reddit.com/r/tDCS/
-http://chgd.umich.edu/wp-content/uploads/2014/06/10-20_system_positioning.pdf
+* http://VagabondBanana.com
+* http://www.quantified-mind.com/
+* https://www.reddit.com/r/tDCS/
+* http://chgd.umich.edu/wp-content/uploads/2014/06/10-20_system_positioning.pdf
 
 
 
