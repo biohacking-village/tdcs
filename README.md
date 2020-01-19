@@ -268,9 +268,12 @@ Where the two meet is CZ
 
 
 Electrodes:
+<img src="media/BHV19_elec1.png"> 
 
 Safety pins affix aluminum mesh screens to cellulose sponges.
 Clips-on wires connect to aluminum mesh. Wires then connect to tDCS board.
+
+<img src="media/BHV19_elec2.png"> 
 
 Easier to put together when sponges are dampened.
 Avoid wrinkles and bunching in mesh
