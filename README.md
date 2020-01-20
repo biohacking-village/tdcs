@@ -23,7 +23,7 @@ Please consult your physician before engaging in DIY tDCS
 * By applying voltage to specific neuronal areas and pathways, we can amplify the strength of those connections, thereby increasing (or decreasing) our synaptic amplitude to craft a specific desired outcome.
 * https://medium.com/@vagabondbanana/what-is-tdcs-e29ff7288a02
 
-**Why tDCS**
+**Why tDCS?**
 
 Used in the medical community as well as the DIY community
 * Parkinson’s
@@ -43,8 +43,9 @@ Used in the medical community as well as the DIY community
 * Not suggested for people with a history of epilepsy, has had brain surgery, have a plate in the head
 * External use only
 * 9V battery only
+* Open Letter about diy tDCS https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6050584/#R11
 
-**Side effects**
+**Common side effects**
 
 * Phosphenes (seeing a flash of light)
   * https://thebrainstimulator.net/faq/experienced-flash-light-turning-device-harmful/
@@ -53,17 +54,37 @@ Used in the medical community as well as the DIY community
 * Metalic taste
 
 
-## Overview - Electrodes
-* Electrode - electrical conductor that connects battery to the skin delivering a weak electrical current
-* Charge - electrodes are either **anode** (positive (+), red) vs **cathode** (negative (-),black)
-  * Anodal stimulation acts to excite neuronal activity
-  * Cathodal stimulation inhibits or reduces neuronal activity
-* Type - rubber carbon pads, sponge (most common), self-adhesive
+## Equipment
+
+tDCS systems uses a power scource, circuit board, and electrodes to deliver a weak current to the scalp.
+
+For the Biohacking Village badge, we used:
+* Power - 9V battery
+* Custom circuit board
+* diy sponge electrodes
+
+### TDCS/Brain Stimulation Badge
+
+<img src="media/BHV19_circ1.png" width="300"> <img src="media/BHV19_tdcs18.png" width="300"> 
+
+
+### About Electrodes
+
+<img src="media/BHV19_elec1.png" width="200"> 
+
+Electrodes are a pair of electrical conductors that connect the battery to the skin delivering a weak electrical current
+* Charge - the electrode pair is one anode and one cathode 
+  * **anode** (positive (+), red) - Anodal stimulation acts to excite neuronal activity
+  * **cathode** (negative (-),black) - Cathodal stimulation inhibits or reduces neuronal activity
+* Pad Type - the end that attaches to the scalp has a pad on it to create good contact with the skin
+  * rubber carbon pads
+  * sponge (most common)
+  * self-adhesive 
 * Quality comparison 
   * https://medium.com/@vagabondbanana/is-diy-as-good-as-clinical-commercial-when-it-comes-to-tdcs-electrodes-1fc82fab66eb
   * https://thebrainstimulator.net/choosing-electrodes/
 
-### Electrode Placement
+## tDCS Electrode Placement
 
 * 10-20 System
   * Internationally recognized way to map out specific points on the scalp for electrode placement
@@ -85,58 +106,57 @@ TDCS focuses on 4 parts of the brain
   * primarily responsible for vision
 * Temporal lobe (T)
   * processes memories, integrating them with sensations of taste, sound, sight and touch
-When discussing electrodes placement F, P, O, T are used to label points on the scalp,  C is also used to indicate Center midline (from front to back)
 
-## Mapping the Scalp
+When discussing electrodes placement F, P, O, T are used to label points on the scalp. The letter C is also used to indicate Center midline (from front to back of head). 
 
-F, P, O, T - Odd numbers on the left, even on the right
 
-<img src="media/BHV19_tdcs2.png" width="500"> 
+### How to Map the Scalp
+##
+<img src="media/BHV19_tdcs2.png" width="300"> 
 
-------
-<img src="media/BHV19_tdcs3.png" width="500"> 
+Front to back: F, P, O, T 
+
+Left to Right: Odd numbers on the left, even on the right
+##
+
+<img src="media/BHV19_tdcs3.png" width="300"> 
 
 * LPP 10% to T3, 20% to C3, 20% to Cz, 20% to C4, 20% to T4, 10% to RPP = 100%
 * Midline, Nasion 10% to Fpz, 20% to Fz, 20% to Cz, 20% to Pz, 20% to Oz, 10% to Inion = 100%
 
 
-* How are “WE” going to do this, today?
-* For the sake of brevity and getting to the good stuff, we will show you how to map of few of the commonly used electrode placements.
-* Using cm side of measuring tape
-
-------
-
-<img src="media/BHV19_tdcs4.png" width="500"> 
-
-------
-
-<img src="media/BHV19_tdcs5.png" width="500"> 
-
-------
-
-<img src="media/BHV19_tdcs6.png" width="500"> 
-
-------
-
-<img src="media/BHV19_tdcs7.png" width="500"> 
-
-------
-
-<img src="media/BHV19_tdcs8.png" width="500"> 
+##
 
 
-Measurement methods for placement of the F3, F4, P3, and P4 points differ. If measured front-to-back (Fp1-F3-C3-P3-O1 and Fp2-F4-C4-P4-O2 montages), they can be 25% "up" from the front and back points (Fp1, Fp2, O1, and O2). If measured side-to-side (F7-F3-Fz-F4-F8 and T5-P3-Pz-P4-T6 montages), they can be 25% "up" from the side points (F7, F8, T5, and T6). If measured diagonally, from Nasion to Inion through the C3 and C4 points, they will be 20% in front of and behind the C3 and C4 points. Each of these measurement methods results in different nominal electrode placements.
+<img src="media/BHV19_tdcs4.png" width="300"> <img src="media/BHV19_tdcs5.png" width="300"> 
+NOTE: Use the cm side of measuring tape
+
+##
+
+<img src="media/BHV19_tdcs6.png" width="300"> <img src="media/BHV19_tdcs7.png" width="300"> 
+
+##
+
+<img src="media/BHV19_tdcs8.png" width="300"> 
+
+
+Measurement methods for placement of the F3, F4, P3, and P4 points differ. 
+
+* If measured front-to-back (Fp1-F3-C3-P3-O1 and Fp2-F4-C4-P4-O2 montages), they can be 25% "up" from the front and back points (Fp1, Fp2, O1, and O2). 
+* If measured side-to-side (F7-F3-Fz-F4-F8 and T5-P3-Pz-P4-T6 montages), they can be 25% "up" from the side points (F7, F8, T5, and T6). 
+* If measured diagonally, from Nasion to Inion through the C3 and C4 points, they will be 20% in front of and behind the C3 and C4 points. 
+* Each of these measurement methods results in different nominal electrode placements.
 
 ------
 
 ## Common Locations for tDCS
 
-* **Anode F3
+* **Anode F3**
   * **Cathode FP2** (right center forehead)
     * Depression, SAD - seasonal affective disorder, generalized anxiety disorder
   * **Cathode F4** (opposite F3)
     * Addiction 
-* **Anode Fp1
+* **Anode Fp1**
   * Cathode left center forehead or right shoulder
     * Attention
 * **Anode T4** 
@@ -149,11 +169,11 @@ However...we are scientists...let's be as accurate as possible
 
 ## Anode F3
 
-<img src="media/BHV19_tdcs9.png" width="500"> 
+<img src="media/BHV19_tdcs9.png" width="300"> 
 
 ## Anode F4
 
-<img src="media/BHV19_tdcs10.png" width="500"> 
+<img src="media/BHV19_tdcs10.png" width="300"> 
 
 ------
 
@@ -185,19 +205,18 @@ However...we are scientists...let's be as accurate as possible
 * https://totaltdcs.com/
 * https://cdn.shopify.com/s/files/1/3104/9196/files/tDCS_montage_reference_v1_0.pdf?923975672558430024
 
-## Eaxmples of Common Montages
+## Examples of Common Montages
 
-## Depression
-
+### Depression
 <img src="media/BHV19_tdcs11.png" width="500"> 
 
 * Typical stimulation protocols are 1-2 mA for 20 minutes over the left DLPFC.
 * The left DLPFC activity is associated with positive emotional processing.
 
-------
-## Addiction
+##
+### Addiction
 
-<img src="media/BHV19_tdcs12.png" width="300"> 
+<img src="media/BHV19_tdcs12.png" width="500"> 
 
 * Typical stimulation protocol is 2 mA intensity for 20 minutes.
 Can potentially be used to reduce addictive behaviors that include cravings for tobacco, food, alcohol and drugs. Can potentially also be used for reducing risk taking behavior.
@@ -214,9 +233,9 @@ Can potentially be used to reduce addictive behaviors that include cravings for 
 * Diminishing risk-taking behavior by modulating activity in the prefrontal cortex: A direct current stimulation study. Shirley Fecteau (2007)
 * Manipulating Executive Function with Transcranial Direct Current Stimulation. David V. Smith (2009) 
 
-------
+##
 
-## Insightfulness
+### Insightfulness
 
 <img src="media/BHV19_tdcs13.png" width="500"> 
 
@@ -224,7 +243,7 @@ Can potentially be used to reduce addictive behaviors that include cravings for 
 
 * The general understanding so far for this montage is that mental templates and/or cognitive biases may be weakened which is associated with users increasing their insightfulness and ability to find novel meaning in a given set of information.
 
-------
+##
 
 ### Attention Improvement
 
@@ -232,90 +251,91 @@ Can potentially be used to reduce addictive behaviors that include cravings for 
 
 * Measure and mark 5% of total circumference to the left and right of Fpz. These will be your true Fp1 and Fp2 marks.
 
-------
+##
 
-## Chronic Pain
+### Chronic Pain
 
 <img src="media/BHV19_tdcs15.png" width="500"> 
 
-------
+##
 
 
-## ADHD
+### ADHD
 
 <img src="media/BHV19_tdcs16.png" width="500"> 
 
-------
+##
 
-## Improved Cognition
+### Improved Cognition
 
 <img src="media/BHV19_tdcs17.png" width="500"> 
 
 -----
 ## Your Montage Experiment
 
-## What you will need
-* Have a brain
+### What you will need
+* Your head
   * Not suggested for people with a history of epilepsy, has had brain surgery, have a plate in the head
 * tDCS badge or device
 * Electrode kit (4 safety pins, 2 square sponges, 2 squares aluminum mesh, 2 wires with clips)
 * 9V Battery
 * Measuring tape lanyard
 * Headband
-
- 
-## Instructions
+* Way to record results
+* Timer (phone app) 
 
 **Disclaimer**
 * The tDCS device provided in this workshop is not intended as a medical device and is not approved by the FDA. The user accepts all risk associated with the advice, guidance, claims, and references provided within the workshop.
 
+### Build Badge
 
-Badge Diagram:
+#### **Assemble electrodes**
+1. Create saline (conductivity solution)
+    * 1/8 teaspoon per cup (distilled – maybe boiled and cooled water) – future studies coming
+2. Dampen sponges with saline 
+3. Place mesh on the middle of the sponge 
+  * Ensure mesh does not extend beyond the edges of the sponge. Trim if necessary.
+4. Use the safety pins to affix aluminum mesh screens to cellulose sponges
+  * Avoid wrinkles and bunching in mesh
 
-Mapping:
-Mapping
-* Even numbers on the right
-* Odd numbers on the left
-* Find CZ
+<img src="media/BHV19_elec2.png" width="100"> <img src="media/BHV19_elec1.png" width="300"> 
+
+4. Attach alligator clip side of the electrode wire to the to aluminum mesh. Use a small screwdriver to loosen the screws of the electrode connector on the tDCS board. Slip the bare wire ends of the electrode wires into the connector and tighten the screws back down.
+5. Put 9V battery in holder on back of the board. 
+
+
+<img src="media/BHV19_ho1.png" width="200"> 
+
+
+### Select Protocol
+* Choose a Protocol
+  * Amplitude (e.g. 1.5mA to 2.0mA)
+  * Duration (e.g. 20 minutes)
+  * Montage (electrode placement on scalp and expected outcome)
+ * Choose a test for outcomes (did it work?)
+
+
+### **Map Your Head**
+
+<img src="media/BHV19_ho2.png" width="300"><img src="media/BHV19_ho3.png" width="300"> 
+
+* Even numbers on the right and odd numbers on the left
+* Find your CZ
 * Measure from Nasion to Inion
 * Mark 50% between N and I
 * Measure from left preauricular point (LPA) to right preauricular point (RPA)
 * Mark 50% between LPA and RPA
 * Where the two meet is CZ
 
+<img src="media/BHV19_tdcs18.png" width="400"> 
 
-
-Electrodes:
-<img src="media/BHV19_elec1.png"> 
-
-* Safety pins affix aluminum mesh screens to cellulose sponges.
-* Clips-on wires connect to aluminum mesh. Wires then connect to tDCS board.
-
-<img src="media/BHV19_elec2.png"> 
-
-* Easier to put together when sponges are dampened.
-* Avoid wrinkles and bunching in mesh
-* Ensure mesh does not extend beyond the edges of the sponge. Trim if necessary.
-* Do not put mesh side on skin. Ensure no metal is exposed on the contact side
-
-
-## Setting up Your Session
-
-* Choose a Protocol
-  * Amplitude
-  * Duration
-  * Montage
-* Create saline (conductivity solution)
-* Are you going to evaluate your results?
-
-* What is a protocol? What is the approach?
-* 1.5mA to 2.0mA – 20 minutes
-
-* 1/8 teaspoon per cup (distilled – maybe boiled and cooled water) – future studies coming
-
-## Badge Overview
-
-<img src="media/BHV19_tdcs18.png" width="500"> 
+### Using tDCS
+1. Place the electrodes at the correct places on your scalp for your montage 
+2. Secure the electrodes with headband 
+3. Turn on tDCS badge (switch)
+4. Set timer for the preferred protocol duration
+5. Turn off the tDCS badge when timer finishes
+6. Record results during session and any from test if one was chosen
 
 ---
 ## Another Disclaimer
@@ -327,8 +347,6 @@ Children, elderly, and people with history of epilepsy, stroke, or implants shou
 Please consult your physician before engaging in DIY tDCS
 
 BY ACCEPTING AND/OR USING THIS DEVICE, YOU ACCEPT ALL RISK, RESPONSIBILITY, AND LIABILITY ASSOCIATED WITH IT
-
-
 ---
 
 ## Resources
