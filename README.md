@@ -66,7 +66,7 @@ For the Biohacking Village badge, we used:
 ### TDCS/Brain Stimulation Badge
 
 <img src="media/BHV19_circ1.png" width="300"> <img src="media/BHV19_tdcs18.png" width="300"> 
-
+More information: https://medium.com/@vagabondbanana/the-tdcs-badge-ed434ff39295
 
 ### About Electrodes
 
